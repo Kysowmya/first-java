@@ -1,0 +1,2 @@
+garagesalesapp/domain/SaleEvent.java
+ garagesalesapp.domain.SaleEvent
